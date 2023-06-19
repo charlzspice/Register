@@ -1,4 +1,4 @@
-# Register
+#  <a href="https://netbeans.apache.org/kb/docs/java/gui-functionality.html">Register </a> 
 This repository explains how to use the various components of a JFrame and creating a graphical user interface
 ## Explanation
 The use of Jframe heps to create a user defined interface where one can be able to access various <br> services for the application <br> 
